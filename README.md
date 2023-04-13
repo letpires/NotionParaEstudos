@@ -2,7 +2,7 @@
   📝 Notion para estudos
 </h2>
 
-[Nesse vídeo](https://youtu.be/9edcXea5ngE) eu mostro como o template funciona e como duplicar para o seu Workspace.
+[Nesse vídeo](https://www.youtube.com/watch?v=SJaZsc4LPhQ&t=1sE) eu mostro como o template funciona e como duplicar para o seu Workspace.
 
 <p align="left">
   <img src="https://github.com/letpires/NotionParaEstudos/blob/main/template.png" >
